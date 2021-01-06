@@ -18,7 +18,7 @@
     "@types/react-transition-group": "^4.2.4",
     "aws-amplify": "^3.0.12",
     "aws-amplify-react": "^4.1.10",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1",
     "moment": "^2.25.3",
